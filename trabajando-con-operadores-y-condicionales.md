@@ -1,6 +1,6 @@
 Vamos ahora a practicar operadores y condicionales:
 
-**Ejercicio 1 - Calculadora**
+## Ejercicio 1 - Calculadora
 
 - Crea un fichero llamado ejercicio1.js e inclúyelo dentro de tu html
 - Define una variable llamada **x** y asígnale un valor 100
@@ -26,7 +26,7 @@ console.log("El resultado de la multiplicación es: " + resultadoMultiplicacion)
 console.log("El resultado de la división es: " + resultadoDivision);
 ```
 
-**Ejercicio 2 - Película favorita**
+## Ejercicio 2 - Película favorita
 
 - Crea un fichero llamado ejercicio2.js e inclúyelo dentro de tu html
 - Define una variable llamada peliculaFavorita y asígnale el valor de tu película favorita
@@ -43,7 +43,7 @@ let mensaje = "Mi película favorita es " + peliculaFavorita + ",me encanta la a
 console.log(mensaje);
 ```
 
-**Ejercicio 3 - Concierto Rosalía**
+## Ejercicio 3 - Concierto Rosalía
 
 - Crea un fichero llamado ejercicio3.js e inclúyelo dentro de tu html
 - Define una variable llamada quedanEntradas y asígnale un valor true
@@ -61,7 +61,7 @@ let puedoIrAlConcierto = quedanEntradas && (dineroEnCuenta <= 80 || meDejanDiner
 console.log(puedoIrAlConcierto);
 ```
 
-**Ejercicio 4 - Nota**
+## Ejercicio 4 - Nota
 
 - Crea un fichero llamado ejercicio4.js e inclúyelo dentro de tu html
 - Define una variable llamada nota con un valor 7
@@ -78,7 +78,7 @@ if(nota >= 5) {
 }
 ```
 
-**Ejercicio 5 - Nota 2**
+## Ejercicio 5 - Nota 2
 
 - Vamos a darle una vuelta de tuerca al ejercicio4, crea un fichero  ejercicio5.js e inclúyelo dentro de tu html
 - Define una variable llamada nota con un valor 3
@@ -109,7 +109,7 @@ if(nota > 0 && nota <= 5) {
 }
 ```
 
-**Ejercicio 6 - Pescadería**
+## Ejercicio 6 - Pescadería
 
 - Crea un fichero  ejercicio6.js e inclúyelo dentro de tu html
 - Define una variable llamada pescado con un valor lubina
