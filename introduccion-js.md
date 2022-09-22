@@ -2,7 +2,7 @@
 
 ---
 
-**INTRODUCCIÓN A LA SESIÓN**
+## INTRODUCCIÓN A LA SESIÓN
 
 Bienvenidos a esta quinta sesión del bloque del prework. Tras haber trabajado con HTML y CSS, habiendo hecho nuestra primera landing, vamos ahora a adentrarnos en el mundo de JS para poder darle lógica y funcionalidad a las estructuras y diseños que estamos aprendiendo a hacer. a lo largo de la sesión:
 
@@ -20,7 +20,7 @@ Bienvenidos a esta quinta sesión del bloque del prework. Tras haber trabajado c
 
 - Ejercicios y tareas
 
-**INTRODUCCIÓN A JAVASCRIPT**
+## INTRODUCCIÓN A JAVASCRIPT
 
 Como hemos comentado Javascript es un lenguaje de programación que nos va a servir para poder crear esa interactividad que necesitamos en una página web. Por ejemplo:
 
@@ -31,7 +31,7 @@ Como hemos comentado Javascript es un lenguaje de programación que nos va a ser
 
 Esta base de Javascript la utilizan React y Node, con los que trabajaremos a lo largo del curso.
 
-**NUESTRO PRIMER HELLO WORLD**
+## NUESTRO PRIMER HELLO WORLD
 
 Vamos ahora a crear nuestro primer Hello World. Para ello crearemos un proyecto base con nuestro **index.html** genérico.
 Debemos crear también un fichero **main.js** que será donde introduzcamos el código de JS.
