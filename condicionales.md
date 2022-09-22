@@ -1,6 +1,6 @@
 Toca el turno a los condicionales. El objetivo de los mismos es ejecutar una sentencia cuando se da una condición específica y es TRUE. En caso contrario, podría ejecutarse una sentencia diferente. La estructura sería de la siguiente manera:
 
-**IF-ELSE-ELSE IF**
+## IF-ELSE-ELSE IF
 
 - En caso de que únicamente queramos incluir una sentencia en caso de que se cumpla una condición, usaremos **IF**
 
@@ -79,7 +79,7 @@ if ( etiqueta === "ECO" || etiqueta === "0") {
 }
 ```
 
-**SWITCH**
+## SWITCH
 
 Cuando queremos ejecutar diferentes sentencias en función de una expresión, utilizamos SWITCH. La declaración SWITCH evalúa una expresión y lo compara con las diferentes opciones definidas, ejecutando las declaraciones asociadas a estas. Sigue la siguiente estructura:
 
