@@ -1,6 +1,6 @@
 Os dejamos unas tareas para que practiquéis con operadores y condicionales:
 
-**Ejercicio 1 - Calculadora**
+## Ejercicio 1 - Calculadora
 
 - Crea un fichero llamado ejercicio1.js e inclúyelo dentro de tu html
 - Define una variable llamada **x** y asígnale un valor 30
@@ -23,7 +23,7 @@ y *= x;
 console.log(y);
 ```
 
-**Ejercicio 2 - Comida favorita**
+## Ejercicio 2 - Comida favorita
 
 - Crea un fichero llamado ejercicio2.js e inclúyelo dentro de tu html
 - Define una variable llamada ciudad y asígnale el valor de tu lugar favorito
@@ -43,7 +43,7 @@ let mensaje = "Me encanta " + ciudad + ",me gustaría ir con " + mejorAmigo + " 
 console.log(mensaje);
 ```
 
-**Ejercicio 3 - Conducir coche**
+## Ejercicio 3 - Conducir coche
 
 - Crea un fichero llamado ejercicio3.js e inclúyelo dentro de tu html
 - Define una variable llamada edad y asígnale un valor 18
@@ -65,7 +65,7 @@ let puedoConducir = edad >= 18 && tengoCarnet && (tengoCoche || tengoMoto) && !h
 console.log(puedoConducir);
 ```
 
-**Ejercicio 4 - PH Piscina**
+## Ejercicio 4 - PH Piscina
 
 - Crea un fichero  ejercicio4.js e inclúyelo dentro de tu html
 - Define una variable llamada ph con un valor 7
@@ -90,7 +90,7 @@ if(ph > 0 && ph <= 7) {
 }
 ```
 
-**Ejercicio 5 - Calculadora 3**
+## Ejercicio 5 - Calculadora 3
 
 - Crea un fichero  ejercicio5.js e inclúyelo dentro de tu html
 - Define una variable llamada a con valor 3
