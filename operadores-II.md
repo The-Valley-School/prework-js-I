@@ -1,4 +1,4 @@
-**OPERADORES LÓGICOS**
+## OPERADORES LÓGICOS
 
 Como su propio nombre indica, los operadores lógicos van a servir para que podamos realizar operaciones lógicas con nuestras variables. Operadores lógicos:
 
@@ -6,7 +6,7 @@ Como su propio nombre indica, los operadores lógicos van a servir para que poda
 - AND '&&': Deben cumplirse las dos condiciones
 - NOT '!': Negamos el valor
 
-**OR**
+### OR
 
 Nos devuelve true en caso de que alguna de las variables de la comparativa sea true, en caso contrario, false.
 
@@ -16,7 +16,7 @@ let tengoHBO = true;
 let puedoVerSerie = tengoNetflix || tengoHBO;
 ```
 
-**AND**
+### AND
 
 Nos devuelve true en caso de que se cumplan todas las condiciones, en caso contrario, false.
 
@@ -26,7 +26,7 @@ let tengoCarnet = true;
 let puedoConducir = soyMayorDeEdad && tengoCarnet;
 ```
 
-**NOT**
+### NOT
 
 Nos devuelve el valor contrario al expuesto
 
@@ -35,7 +35,7 @@ let noVerdadero = !true;
 let noFalso = !false;
 ```
 
-**OPERADORES DE COMPARACIÓN**
+## OPERADORES DE COMPARACIÓN
 
 Utilizando símbolos específicos vamos a poder comparar también variables
 Operadores comparación:
