@@ -1,6 +1,6 @@
 Vamos ahora a trabajar con operadores. Son símbolos matemáticos que nos van a permitir trabajar sobre dos valores para conseguir un resultado.
 
-**OPERADORES ARITMÉTICOS**
+## OPERADORES ARITMÉTICOS
 
 El primer grupo de operadores que vamos a ver es el aritmético.
 Nos van a permitir realizar operaciones matemáticas. Utilizamos los signos que conocemos de sobra:
@@ -9,7 +9,7 @@ Nos van a permitir realizar operaciones matemáticas. Utilizamos los signos que 
 - **'-', '/', '*'** Resta, división y multiplicación
 - **'+'** Suma, concatenación
 
-**ASIGNACIÓN**
+### ASIGNACIÓN
 
 Lo utilizamos para asignarle un valor a nuestra variable
 
@@ -18,7 +18,7 @@ let a = 3;
 let b = 10;
 ```
 
-**RESTA, DIVISIÓN, MULTIPLICACIÓN**
+### RESTA, DIVISIÓN, MULTIPLICACIÓN
 
 Para realizar las operaciones necesarias sobre las variables
 
@@ -29,7 +29,7 @@ let resultadoMultiplicacion = a * b;
 let resultadoEcuacion = (a - b) * a / b;
 ```
 
-**SUMA Y CONCATENACIÓN**
+### SUMA Y CONCATENACIÓN
 
 Para realizar operaciones numéricas o concatenación de cadenas de caracteres.
 
@@ -40,7 +40,7 @@ let resultadoSuma2 = "3" + "10";            //Se trataría de una concatenación
 let resultadoSuma3 = "3" + 10;              //Javascript lo seguiría interpretando como cadena, resultado 310
 ```
 
-**OPERADORES DE OPERACIÓN Y ASIGNACIÓN**
+## OPERADORES DE OPERACIÓN Y ASIGNACIÓN
 
 A la hora de trabajar en Javascript podemos operar y asignar de manera simultánea para poder conservar ciertos valores. Estos operadores serían:
 
