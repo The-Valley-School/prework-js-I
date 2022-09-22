@@ -1,4 +1,4 @@
-**DECLARACIÓN DE VARIABLES**
+## DECLARACIÓN DE VARIABLES
 
 Hay que entender las variables como contenedores o cajas donde podemos guardar información.
 Para declarar una variable usamos la palabra 'var' o 'let' y a continuación el nombre que le queramos dar.
@@ -33,7 +33,7 @@ let actorPrincipal;     // Buena forma de declarar si queremos indicar el actor 
 - Como los equipos de desarrollo son cada vez más internacionales, es recomendable que el nombremos las variables en inglés
 - Es muy importante también que el nombre de la variable sea único para impedir que se produzcan errores en el código
 
-**ASIGNACIÓN DE VALOR**
+## ASIGNACIÓN DE VALOR
 
 Para asignar un valor a una variable lo hacemos de la siguiente forma:
 
@@ -47,7 +47,7 @@ Podemos declarar y asignar un valor a la vez
 let actrizPrincipal = "Halle Berry";
 ```
 
-**OBTENCIÓN Y ASIGNACIÓN DE VALOR**
+## OBTENCIÓN Y ASIGNACIÓN DE VALOR
 
 Para obtener el valor de una variable basta con llamarlo por su nombre
 
