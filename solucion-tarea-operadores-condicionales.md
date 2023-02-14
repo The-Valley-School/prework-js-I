@@ -85,7 +85,7 @@ if(ph > 0 && ph <= 7) {
 	console.log("El agua está neutra");
 } else if (ph > 7 && ph <= 14) {
 	console.log("El agua está alcalina");
-} else 
+} else {
 	console.log("El ph no es correcto");
 }
 ```
