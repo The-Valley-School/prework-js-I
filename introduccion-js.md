@@ -35,7 +35,34 @@ Esta base de Javascript la utilizan React y Node, con los que trabajaremos a lo 
 
 Vamos ahora a crear nuestro primer Hello World. Para ello crearemos un proyecto base con nuestro **index.html** genérico.
 Debemos crear también un fichero **main.js** que será donde introduzcamos el código de JS.
-Para incluir este script en el fichero raíz de html usaremos la etiqueta script.
+Para incluir este script en el fichero raíz de html usaremos la etiqueta 
+
+**<script>**
+
+```jsx
+<script src="main.js"></script>
+```
+
+Una vez definido el script vamos a aprender nuestra primera función, que seguro que vais a utilizar mucho a lo largo de vuestra carrera como desarrolladores. Es la función **console.log()** y sirve para mostrar por consola en el navegador cierta información. En nuestro caso vamos a mostrar la frase **"Hello World!"** de tal manera:
+
+```jsx
+console.log("Hello World!"); //muestra por consola la cadena Hello World!
+```
+
+Si vamos a la consola de nuestro navegador vamos a ver que se muestra esa frase.
+¡Con este ejemplo ya habríamos hecho nuestro primer script!
+
+Otra forma de mostrarlo de manera más visual es con la función **alert()** de tal manera:
+
+```jsx
+alert("Hello World!"); //muestra una alerta con la cadena Hello World!
+```
+
+Como habéis visto, para trabajar con comentarios en JS se hace de la misma manera que en CSS. Disponemos tanto de comentarios de línea **'//'** como de bloque **'/* */’**
+
+-----
+
+script.
 
 ```js
 <script src="main.js"></script>
@@ -66,3 +93,5 @@ Como habéis visto, para trabajar con comentarios en JS se hace de la misma mane
 	en JS
 */
 ```
+
+
