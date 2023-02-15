@@ -35,7 +35,7 @@ Esta base de Javascript la utilizan React y Node, con los que trabajaremos a lo 
 
 Vamos ahora a crear nuestro primer Hello World. Para ello crearemos un proyecto base con nuestro **index.html** genérico.
 Debemos crear también un fichero **main.js** que será donde introduzcamos el código de JS.
-Para incluir este script en el fichero raíz de html usaremos la etiqueta **`<script>`**
+Para incluir este script en el fichero raíz de html usaremos la etiqueta `<script>`
 
 ```js
 <script src="main.js"></script>
